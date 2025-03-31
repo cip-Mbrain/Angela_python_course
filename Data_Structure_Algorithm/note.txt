@@ -1,0 +1,58 @@
+****What is Data Structure****
+Data Structure are different ways of organizing data on your computer, that can be used effectively.
+
+****what is an Algorithm****
+Algorithm in Computer Science: is a Set of rules for a computer program to accomplish a Task
+
+****Types of Data Structure****
+
+- Primitive Data Type: This are basic data type that can not be broken into smaller data type
+ -integer
+ -float
+ -String
+ -Boolean
+
+ - Non Primitive Data Type: these are more complex data type that can be broken into smaller data type
+
+###linear###: linear data structures are those in which the elements are arranged in a sequential order with each element connected to its adjacent elements.
+These data structures are used to represent a sequence of data where the order of elements is important.
+-List
+-Tuple
+-Array
+-Linked List
+-Stack
+-Queue
+
+###Non Linear Data Structures ###: These are those in which the elements are not arranged in a sequential order.  
+These data structure are used to represent a hierarchical relationship between data elements where each elements is connect to one or more other elements in a specific way.
+-Set
+-Dictionary
+-Tree
+-Graph
+
+Note:
+List, Tuple, Set, Dictionary are built in data structures.
+
+
+****Types of Algorithms****
+
+- Sorting Algo: are used to store data in ascending or descending order.
+- Searching Algo: are used to find a specific value in a data set.
+- Graph Algo: are used to work with data that can be represented as a graph
+- Dynamic Programming Algo: are used to solve problems by breaking them down tinto smaller sub-problems
+- Divide and Conquer Algo: are used to solve problems by breaking them down into smaller sub-problems, solving each sub-problem independently, and then combining the results.
+Recursive Algo: are used to solve problems by breaking them down into smaller sub-problems that are similar in nature  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
